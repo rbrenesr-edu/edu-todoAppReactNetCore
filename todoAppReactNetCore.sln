@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todoAppReactNetCore", "todoAppReactNetCore\todoAppReactNetCore.csproj", "{FD654D95-05B3-414E-990D-89DBEE091B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD654D95-05B3-414E-990D-89DBEE091B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD654D95-05B3-414E-990D-89DBEE091B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD654D95-05B3-414E-990D-89DBEE091B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD654D95-05B3-414E-990D-89DBEE091B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2F0E501-BEE4-4169-B334-07C8ED46C319}
+	EndGlobalSection
+EndGlobal
