@@ -32,7 +32,7 @@ namespace todoAppReactNetCore.Controllers
             return StatusCode(StatusCodes.Status200OK, "ok");            
         }
 
-        [HttpPost]
+        [HttpDelete]
         [Route("Cerrar/{id:int}")]
         public async Task<IActionResult> Cerrar(int id)
         {
